@@ -1,0 +1,587 @@
+[
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G083.mp4",
+        "pred": 0.5945512642417855,
+        "label": "78.7753"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G060.mp4",
+        "pred": 0.12940273159163906,
+        "label": "71.4348"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A069.mp4",
+        "pred": 0.4960938294709195,
+        "label": "49.4444"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A056.mp4",
+        "pred": 0.34158249943831703,
+        "label": "52.3594"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B310.mp4",
+        "pred": 0.5679366107876933,
+        "label": "85.1746"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B031.mp4",
+        "pred": 0.43782349911420193,
+        "label": "69.9155"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G008.mp4",
+        "pred": 0.42250463481418826,
+        "label": "65.8113"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A006.mp4",
+        "pred": 0.320821300824607,
+        "label": "84.6517"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B097.mp4",
+        "pred": 0.23651623644570755,
+        "label": "60.4053"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A002.mp4",
+        "pred": 0.18359362263419612,
+        "label": "57.3005"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B146.mp4",
+        "pred": 0.4378234991142019,
+        "label": "62.9054"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G012.mp4",
+        "pred": 0.24944724346334116,
+        "label": "51.3923"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B024.mp4",
+        "pred": 0.41869690935568665,
+        "label": "67.6078"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B153.mp4",
+        "pred": 0.46490157137338844,
+        "label": "62.9021"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B025.mp4",
+        "pred": 0.5370413867561842,
+        "label": "86.53"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B240.mp4",
+        "pred": 0.3225259830643727,
+        "label": "67.1576"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B058.mp4",
+        "pred": 0.1778108694780496,
+        "label": "58.367"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B282.mp4",
+        "pred": 0.40733340004593027,
+        "label": "70.8817"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B275.mp4",
+        "pred": 0.4610167793123159,
+        "label": "79.0355"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G102.mp4",
+        "pred": 0.2974699426047947,
+        "label": "67.75"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G063.mp4",
+        "pred": 0.1066905939456512,
+        "label": "29.0845"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B184.mp4",
+        "pred": 0.5312093733737563,
+        "label": "57.0256"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B083.mp4",
+        "pred": 0.3611647202343208,
+        "label": "47.1299"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B309.mp4",
+        "pred": 0.3123700042851455,
+        "label": "75.774"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G027.mp4",
+        "pred": 0.09670579329612156,
+        "label": "45.7368"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B255.mp4",
+        "pred": 0.4571367168274948,
+        "label": "62.2424"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G033.mp4",
+        "pred": 0.32766830082071385,
+        "label": "60.6505"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B004.mp4",
+        "pred": 0.3575675223704418,
+        "label": "60.6719"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/R001.mp4",
+        "pred": 0.3398276185853647,
+        "label": "72.4848"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A037.mp4",
+        "pred": 0.6095241625665028,
+        "label": "77.5858"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B193.mp4",
+        "pred": 0.46684559533319187,
+        "label": "70.5926"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B048.mp4",
+        "pred": 0.5907792048683923,
+        "label": "65.9427"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B174.mp4",
+        "pred": 0.22000709974589314,
+        "label": "17.9012"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B245.mp4",
+        "pred": 0.4649015713733885,
+        "label": "82.8444"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G028.mp4",
+        "pred": 0.2751297238231752,
+        "label": "61.3883"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G021.mp4",
+        "pred": 0.35756752237044176,
+        "label": "41.2703"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B071.mp4",
+        "pred": 0.6825737344123242,
+        "label": "81.3516"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B202.mp4",
+        "pred": 0.5888891307678319,
+        "label": "78.8095"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B037.mp4",
+        "pred": 0.39420095615110434,
+        "label": "47.7402"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/P004.mp4",
+        "pred": 0.3023910826779019,
+        "label": "63.4194"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B297.mp4",
+        "pred": 0.38121956625614994,
+        "label": "61.4341"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A003.mp4",
+        "pred": 0.23651623644570757,
+        "label": "78.1558"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A053.mp4",
+        "pred": 0.37937838411972974,
+        "label": "67.0884"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B168.mp4",
+        "pred": 0.3040416749665474,
+        "label": "56.3245"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B249.mp4",
+        "pred": 0.30404167496654744,
+        "label": "69.7869"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B253.mp4",
+        "pred": 0.29910519024570714,
+        "label": "72.1818"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B167.mp4",
+        "pred": 0.16026603232776074,
+        "label": "14.8662"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B290.mp4",
+        "pred": 0.49804688493404686,
+        "label": "62.4348"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B285.mp4",
+        "pred": 0.4687906266262437,
+        "label": "73.6837"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G011.mp4",
+        "pred": 0.17217184695139576,
+        "label": "24.7697"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B039.mp4",
+        "pred": 0.4016878051229204,
+        "label": "61.2217"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A089.mp4",
+        "pred": 0.5039061705290805,
+        "label": "46.9444"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B152.mp4",
+        "pred": 0.4378234991142019,
+        "label": "70.9887"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B117.mp4",
+        "pred": 0.3886180267058489,
+        "label": "70.7436"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G051.mp4",
+        "pred": 0.49023561657398396,
+        "label": "75.6131"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A014.mp4",
+        "pred": 0.5156199157230156,
+        "label": "69.9652"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A080.mp4",
+        "pred": 0.2351083892199931,
+        "label": "39.2086"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A018.mp4",
+        "pred": 0.40544873575821444,
+        "label": "76.0205"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B067.mp4",
+        "pred": 0.1412814160007008,
+        "label": "70.6193"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G115.mp4",
+        "pred": 0.7248702761768248,
+        "label": "77.8551"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/P009.mp4",
+        "pred": 0.6187804337438501,
+        "label": "55.9663"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B045.mp4",
+        "pred": 0.5039061705290805,
+        "label": "64.1244"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B206.mp4",
+        "pred": 0.3363310529262674,
+        "label": "80.9784"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B267.mp4",
+        "pred": 0.31405054499180746,
+        "label": "62.3061"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/P006.mp4",
+        "pred": 0.45713671682749474,
+        "label": "54.2271"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B080.mp4",
+        "pred": 0.2240554492316947,
+        "label": "78.8136"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B161.mp4",
+        "pred": 0.5679366107876932,
+        "label": "71.6517"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B052.mp4",
+        "pred": 0.26284183737131667,
+        "label": "58.6099"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B085.mp4",
+        "pred": 0.420599591095013,
+        "label": "78.5556"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G114.mp4",
+        "pred": 0.43206338921230675,
+        "label": "65.0532"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A026.mp4",
+        "pred": 0.4590761278106335,
+        "label": "74.5397"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G057.mp4",
+        "pred": 0.5350984286266115,
+        "label": "54.5354"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B040.mp4",
+        "pred": 0.3867634463792797,
+        "label": "67.0729"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A031.mp4",
+        "pred": 0.286169243957523,
+        "label": "62.1042"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G041.mp4",
+        "pred": 0.21733752104706247,
+        "label": "43.7181"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A076.mp4",
+        "pred": 0.6150878555160665,
+        "label": "64.7835"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A105.mp4",
+        "pred": 0.20181322226037884,
+        "label": "37.8824"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B014.mp4",
+        "pred": 0.3433417294618181,
+        "label": "62.3243"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B169.mp4",
+        "pred": 0.34864513533394575,
+        "label": "54.0769"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B006.mp4",
+        "pred": 0.13206615786963918,
+        "label": "44.4845"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B190.mp4",
+        "pred": 0.33633105292626736,
+        "label": "72.1381"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B029.mp4",
+        "pred": 0.5907792048683922,
+        "label": "90.8788"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/F004.mp4",
+        "pred": 0.19436781101874467,
+        "label": "18.6163"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B098.mp4",
+        "pred": 0.5019531150659532,
+        "label": "80.199"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B138.mp4",
+        "pred": 0.579400408904987,
+        "label": "79.3155"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A013.mp4",
+        "pred": 0.6388352797656792,
+        "label": "83.4083"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B001.mp4",
+        "pred": 0.19193278644723683,
+        "label": "27.2485"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G113.mp4",
+        "pred": 0.17106119167858438,
+        "label": "74.4923"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B189.mp4",
+        "pred": 0.1968262036430985,
+        "label": "49.8683"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G106.mp4",
+        "pred": 0.11596071825396677,
+        "label": "23.4251"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G076.mp4",
+        "pred": 0.4301473485858429,
+        "label": "80.0361"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A048.mp4",
+        "pred": 0.3363310529262674,
+        "label": "72.3462"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B043.mp4",
+        "pred": 0.33458944125318596,
+        "label": "38.3"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A046.mp4",
+        "pred": 0.1561048974454574,
+        "label": "69.1902"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G090.mp4",
+        "pred": 0.4668455953331918,
+        "label": "75.4464"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A045.mp4",
+        "pred": 0.679178699175393,
+        "label": "81.9773"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G049.mp4",
+        "pred": 0.2379298916111697,
+        "label": "44.5829"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B019.mp4",
+        "pred": 0.47073660663341144,
+        "label": "66.1658"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B115.mp4",
+        "pred": 0.16776334721819927,
+        "label": "39.1942"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B229.mp4",
+        "pred": 0.5736784074525096,
+        "label": "73.8866"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B299.mp4",
+        "pred": 0.43206338921230675,
+        "label": "72.21"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G043.mp4",
+        "pred": 0.4301473485858428,
+        "label": "77.4279"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G103.mp4",
+        "pred": 0.6740504840647447,
+        "label": "81.3545"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B158.mp4",
+        "pred": 0.6943026711575786,
+        "label": "76.8757"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/I001.mp4",
+        "pred": 0.5039061705290805,
+        "label": "72.3462"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B044.mp4",
+        "pred": 0.4843800842769843,
+        "label": "87.1329"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B266.mp4",
+        "pred": 0.6601723814146353,
+        "label": "88.24"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/J005.mp4",
+        "pred": 0.16995623014518765,
+        "label": "24.1117"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G075.mp4",
+        "pred": 0.26284183737131667,
+        "label": "64.293"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G036.mp4",
+        "pred": 0.4785288375393226,
+        "label": "78.6898"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B092.mp4",
+        "pred": 0.23651623644570757,
+        "label": "75.2238"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B217.mp4",
+        "pred": 0.2628418373713166,
+        "label": "37.7778"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G099.mp4",
+        "pred": 0.672331699179286,
+        "label": "80.5632"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A005.mp4",
+        "pred": 0.6020615889267097,
+        "label": "47.1778"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/G065.mp4",
+        "pred": 0.09947021388210707,
+        "label": "68.6814"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/A039.mp4",
+        "pred": 0.22000709974589316,
+        "label": "53.006"
+    },
+    {
+        "file": "/data/ethan/LIVEVQC/Video/B181.mp4",
+        "pred": 0.3007455789412415,
+        "label": "38.5263"
+    }
+]

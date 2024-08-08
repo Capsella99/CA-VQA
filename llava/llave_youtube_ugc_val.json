@@ -1,0 +1,1042 @@
+[
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_2160P-2b92_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.04146227271140962,
+        "label": "3.632"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_360P-188f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.47852883753932274,
+        "label": "3.702"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_480P-2655_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.12085323249047068,
+        "label": "3.261"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-64b0_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4863315313801095,
+        "label": "4.396"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_1080P-77e8_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.0483160702678493,
+        "label": "3.346"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_2160P-4e9f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5350984286266115,
+        "label": "4.405"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_720P-2525_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.37937838411972974,
+        "label": "3.730"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_720P-1971_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.45713671682749485,
+        "label": "4.272"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_1080P-4865_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2030746281894702,
+        "label": "4.355"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-3524_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.10087862273005653,
+        "label": "3.110"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_2160P-7e80_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2782567937024021,
+        "label": "4.108"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_480P-5c17_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.48828339529583464,
+        "label": "3.344"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_720P-0cd5_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1919327864472368,
+        "label": "4.042"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-3c64_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5370413867561842,
+        "label": "3.456"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_480P-073c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.41111086923216794,
+        "label": "3.407"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-0fba_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2068940488158881,
+        "label": "4.089"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_480P-0d23_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1871326821624266,
+        "label": "3.466"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_1080P-1c86_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3942009561511044,
+        "label": "1.848"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-6a45_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4882833952958347,
+        "label": "3.967"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_720P-5e93_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5312093733737562,
+        "label": "4.292"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_1080P-55af_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3451052709578724,
+        "label": "3.748"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-5278_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5389832206876841,
+        "label": "4.099"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-7c11_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.476579651063676,
+        "label": "3.267"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_480P-35ea_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5117166047041654,
+        "label": "3.668"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-64b6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.25683199138751883,
+        "label": "4.192"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_360P-11b7_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.21733752104706244,
+        "label": "2.401"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_720P-2620_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.44360042072113054,
+        "label": "3.721"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_720P-7bcf_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.28776781576105315,
+        "label": "3.536"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_480P-7d77_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5019531150659533,
+        "label": "3.598"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_360P-7a57_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1666754046879767,
+        "label": "3.493"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_720P-42f2_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.06325052199347327,
+        "label": "3.199"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-27ca_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.24798742624020279,
+        "label": "3.475"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_720P-7ba7_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5058591067938315,
+        "label": "3.566"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_360P-6207_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1907240253120337,
+        "label": "3.349"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_1080P-27fb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.32766830082071396,
+        "label": "4.002"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-525d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.42823339806622046,
+        "label": "4.273"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_360P-4417_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.08479540782206828,
+        "label": "2.924"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_360P-7efe_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4320633892123068,
+        "label": "2.912"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_1080P-0860_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1919327864472368,
+        "label": "3.963"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_720P-6d56_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6057990438488956,
+        "label": "3.776"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_2160P-19f9_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.15405756269148543,
+        "label": "3.919"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-30b6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.214691419112242,
+        "label": "2.609"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_360P-274e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4726834766204328,
+        "label": "3.332"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_720P-0c81_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4551986043017219,
+        "label": "3.893"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_360P-2b0f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2877678157610531,
+        "label": "3.401"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_480P-3aa2_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.14608724704829568,
+        "label": "2.767"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_720P-5689_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.20055767974479632,
+        "label": "2.317"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-312f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3647775585204021,
+        "label": "3.826"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-08e1_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6334102636778401,
+        "label": "4.224"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_720P-620f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.7025300573952054,
+        "label": "4.522"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_480P-7f6d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2845760042165267,
+        "label": "3.048"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_1080P-14af_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3647775585204021,
+        "label": "4.450"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_720P-3072_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.420599591095013,
+        "label": "3.180"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_480P-60a6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.22541661583507672,
+        "label": "2.369"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_1080P-725e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.519521321952093,
+        "label": "4.399"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_360P-2fcb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.49804688493404686,
+        "label": "3.619"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_720P-6cde_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4590761278106335,
+        "label": "4.297"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_720P-4c87_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6187804337438501,
+        "label": "3.743"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_480P-2142_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3557748935136303,
+        "label": "3.250"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_480P-59f2_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1634454411084719,
+        "label": "3.418"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-415c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6206216158802703,
+        "label": "3.544"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_720P-003a_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.38676344637927973,
+        "label": "3.812"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_1080P-1b0c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.16451646289656316,
+        "label": "3.763"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-3744_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2351083892199931,
+        "label": "3.948"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_1080P-41ee_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.22270013882530887,
+        "label": "4.071"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_1080P-6e45_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1480471980316895,
+        "label": "2.517"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_480P-1396_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.24364243753740633,
+        "label": "3.459"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-103a_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.39793841107329025,
+        "label": "4.056"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_480P-20ca_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.09670579329612156,
+        "label": "2.891"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_360P-265c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.17781086947804955,
+        "label": "2.339"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_720P-7e56_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.334589441253186,
+        "label": "4.410"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-5904_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6315943044052867,
+        "label": "4.365"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_720P-483c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5525397080801923,
+        "label": "3.485"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_720P-7745_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6150878555160665,
+        "label": "4.528"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_360P-5429_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.37937838411972974,
+        "label": "3.616"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-09d8_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2974699426047947,
+        "label": "2.908"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_360P-3960_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.37204878317345685,
+        "label": "2.787"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_2160P-4024_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1980641736689251,
+        "label": "4.054"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_360P-6da7_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.12085323249047068,
+        "label": "2.763"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_360P-6a65_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.06371499425196533,
+        "label": "2.427"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_2160P-416f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2958398615564072,
+        "label": "4.332"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_360P-7f7e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.7185943925708561,
+        "label": "3.679"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_1080P-63d9_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.26894142136999516,
+        "label": "3.512"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_480P-3b2c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.38306416868055515,
+        "label": "3.472"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_360P-2e48_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.286169243957523,
+        "label": "2.744"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_480P-4b86_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1581743527484317,
+        "label": "3.495"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_1080P-1963_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.575588013330038,
+        "label": "3.882"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_480P-6191_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2829881182827055,
+        "label": "3.502"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_720P-3698_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6370307944803831,
+        "label": "4.378"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_1080P-5cae_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.23091976292927183,
+        "label": "3.209"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-63e6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4397473463667374,
+        "label": "4.228"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_1080P-7c5c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3702253925955866,
+        "label": "3.780"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_720P-17fb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.22815650216092534,
+        "label": "3.591"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-04f1_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6206216158802703,
+        "label": "3.454"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_480P-087e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.33111973962899144,
+        "label": "3.525"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_1080P-13eb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3311197396289915,
+        "label": "3.761"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_1080P-766b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2538610069692489,
+        "label": "3.305"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_720P-25aa_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.19314738002256465,
+        "label": "2.952"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_1080P-3dbf_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.31742626558767584,
+        "label": "4.444"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_360P-0951_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.37387582277169656,
+        "label": "2.511"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_1080P-601b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.35936414516010196,
+        "label": "4.318"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_480P-7f7e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.09401017961657226,
+        "label": "1.953"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_2160P-387f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3522017820478896,
+        "label": "4.513"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_2160P-416c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2030746281894702,
+        "label": "4.019"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-60b3_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6076631698328916,
+        "label": "3.576"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_1080P-6dc6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.23510838921999308,
+        "label": "4.602"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_480P-5830_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.14223189500989633,
+        "label": "3.045"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_360P-14b9_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.12421300835205341,
+        "label": "2.633"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_1080P-5e69_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.23651623644570757,
+        "label": "3.290"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_720P-50b9_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.20434189993684587,
+        "label": "3.579"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_360P-794f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3647775585204021,
+        "label": "3.362"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_1080P-0a86_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.292595299011739,
+        "label": "4.228"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_360P-3794_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.08035746882220707,
+        "label": "1.475"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_2160P-5e25_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.29259529901173903,
+        "label": "4.209"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-26dc_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.334589441253186,
+        "label": "3.685"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_2160P-664d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.16885695214168317,
+        "label": "3.753"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_720P-1862_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.46684559533319187,
+        "label": "3.238"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_720P-6372_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.38861802670584894,
+        "label": "4.422"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_720P-5c7e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5078118642792043,
+        "label": "3.846"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_480P-77e3_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5253688222550322,
+        "label": "3.053"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-7dba_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.588889130767832,
+        "label": "3.718"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_360P-3be0_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.08389038641057993,
+        "label": "1.720"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_1080P-6c1d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.43014734858584286,
+        "label": "4.323"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_360P-5d20_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.33982761858536475,
+        "label": "2.943"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_1080P-48ae_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6039318337259583,
+        "label": "3.887"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-4c99_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3867634463792797,
+        "label": "2.940"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_720P-2d24_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3007455789412415,
+        "label": "4.199"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_720P-4253_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.34510527095787247,
+        "label": "4.066"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_1080P-03fd_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.06608537866754875,
+        "label": "3.517"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_720P-11c5_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.35398629980977286,
+        "label": "3.816"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-2524_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1732882059293266,
+        "label": "3.662"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_480P-15fa_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6039318337259583,
+        "label": "3.581"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-56a5_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5813030906443134,
+        "label": "4.085"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_2160P-34a1_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3259495159352553,
+        "label": "4.414"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_1080P-2fff_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2689414213699951,
+        "label": "4.369"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-0604_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5602526536332626,
+        "label": "3.765"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_1080P-34ba_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4863315313801095,
+        "label": "3.382"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_720P-5364_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.06903792817478999,
+        "label": "2.794"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_360P-586d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.28457600421652673,
+        "label": "3.026"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_360P-6a0e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3849121444839335,
+        "label": "2.104"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_2160P-5275_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.399811640739795,
+        "label": "4.206"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_720P-2d05_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.286169243957523,
+        "label": "3.224"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-6686_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.18952109132967757,
+        "label": "3.926"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-6710_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.47657965106367595,
+        "label": "4.335"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_1080P-360f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.43974734636673746,
+        "label": "4.189"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_360P-2fd5_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.16995623014518765,
+        "label": "2.049"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_720P-5e39_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3904758374334973,
+        "label": "3.685"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_480P-723e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4455295350395727,
+        "label": "2.882"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_480P-4a28_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.37387582277169656,
+        "label": "3.659"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_480P-2407_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6442251064863697,
+        "label": "2.688"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_480P-7278_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2553436598562066,
+        "label": "3.005"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_720P-19fa_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.41869690935568665,
+        "label": "4.269"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-1d78_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6095241625665027,
+        "label": "3.378"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_2160P-2953_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.12421300835205339,
+        "label": "3.467"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_1080P-209f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2766905310254354,
+        "label": "4.189"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/VerticalVideo_360P-145e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1778108694780496,
+        "label": "2.606"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_2160P-2a83_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.600188359260205,
+        "label": "4.002"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_360P-4697_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4649015713733884,
+        "label": "3.551"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_720P-6d81_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.31069438321455395,
+        "label": "3.145"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_480P-181a_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.0614240400546702,
+        "label": "1.785"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_1080P-3749_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.12421300835205339,
+        "label": "4.080"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_720P-7360_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.22953521316645245,
+        "label": "2.798"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_360P-2508_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5078118642792043,
+        "label": "3.004"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_360P-7b23_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.46295861324381593,
+        "label": "2.997"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_720P-372d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.32939172006452694,
+        "label": "4.047"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_480P-459c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.45907612781063356,
+        "label": "2.755"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_480P-6026_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.13296424019782926,
+        "label": "3.033"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_720P-6d6a_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.600188359260205,
+        "label": "3.520"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_720P-2abf_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2030746281894702,
+        "label": "3.615"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_720P-4edb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5078118642792043,
+        "label": "4.015"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_2160P-6f3b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4882833952958347,
+        "label": "4.082"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-1bf7_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5078118642792044,
+        "label": "4.490"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_360P-041c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3647775585204021,
+        "label": "3.214"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/CoverSong_360P-2b4d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4148988457967689,
+        "label": "2.796"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_480P-279d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2974699426047947,
+        "label": "3.373"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_1080P-52bb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.17553807362342935,
+        "label": "4.272"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_2160P-5926_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.38491214448393357,
+        "label": "4.386"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_1080P-63ec_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5869964297463166,
+        "label": "4.229"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-401e_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5621765008857981,
+        "label": "4.227"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_480P-58fb_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.23231014609688014,
+        "label": "3.502"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/NewsClip_480P-543f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6388352797656792,
+        "label": "3.423"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_2160P-49f1_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5058591067938315,
+        "label": "4.287"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-679d_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.658417500561683,
+        "label": "4.366"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_720P-3ffe_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.08035746882220707,
+        "label": "3.011"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_480P-3c8b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.1422318950098963,
+        "label": "2.908"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_480P-4cf8_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.31069438321455395,
+        "label": "2.023"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_480P-5f3a_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.13117322376181567,
+        "label": "2.324"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_2160P-349c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6548947290421274,
+        "label": "4.302"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_720P-21c6_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.07477004290796137,
+        "label": "2.838"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Lecture_720P-07e0_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6057990438488956,
+        "label": "4.082"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-2a21_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3923368301671084,
+        "label": "3.231"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_360P-2164_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.09268777863937605,
+        "label": "3.245"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_480P-52af_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.3090237111195067,
+        "label": "3.656"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LyricVideo_1080P-584f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.44167300566462553,
+        "label": "3.188"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_1080P-1e5b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.11279540628289322,
+        "label": "1.242"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Gaming_360P-56fe_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.22541661583507672,
+        "label": "2.439"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HowTo_360P-2d35_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.6825737344123242,
+        "label": "2.847"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_480P-791b_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.34510527095787247,
+        "label": "3.286"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_1080P-2394_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.5774953651858117,
+        "label": "4.641"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Sports_1080P-6571_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.29746994260479465,
+        "label": "3.652"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Animation_1080P-3d67_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.2751297238231752,
+        "label": "2.778"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_480P-0980_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.17781086947804958,
+        "label": "2.755"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/HDR_2160P-6fab_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.184767510648,
+        "label": "3.443"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/MusicVideo_360P-648c_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.23370635691404026,
+        "label": "3.272"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_2160P-62b2_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.0499585240665846,
+        "label": "3.390"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/TelevisionClip_1080P-3d83_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.14804719803168948,
+        "label": "3.382"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/Vlog_480P-206f_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.4746311777449677,
+        "label": "2.779"
+    },
+    {
+        "file": "/home/ethan/original_videos_h264/LiveMusic_1080P-3f95_crf_10_ss_00_t_20.0.mp4",
+        "pred": 0.35220178204788966,
+        "label": "4.050"
+    }
+]

@@ -1,0 +1,1202 @@
+[
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11803329033.mp4",
+        "pred": 0.1859471949014217,
+        "label": "3.56"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6749780445.mp4",
+        "pred": 0.05033063259747689,
+        "label": "2.02"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5911601461.mp4",
+        "pred": 0.39233683016710835,
+        "label": "3.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8931854960.mp4",
+        "pred": 0.5640984800226174,
+        "label": "3.7"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7146539585.mp4",
+        "pred": 0.611381973294151,
+        "label": "3.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8616015387.mp4",
+        "pred": 0.37754066879814546,
+        "label": "3.54"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8477990214.mp4",
+        "pred": 0.17895588769009546,
+        "label": "2.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6268902756.mp4",
+        "pred": 0.12085323249047067,
+        "label": "1.843137255"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5023426388.mp4",
+        "pred": 0.697608917322098,
+        "label": "3.32"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4801560427.mp4",
+        "pred": 0.3593641451601019,
+        "label": "3.44"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4729578673.mp4",
+        "pred": 0.3539862998097729,
+        "label": "3.28"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4573314147.mp4",
+        "pred": 0.5214711624606773,
+        "label": "2.56"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8092884510.mp4",
+        "pred": 0.40922079513160775,
+        "label": "2.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8278672659.mp4",
+        "pred": 0.11201595092000367,
+        "label": "2.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7360639566.mp4",
+        "pred": 0.4301473485858429,
+        "label": "3.54"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6527804569.mp4",
+        "pred": 0.2200070997458932,
+        "label": "3.12"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4270576961.mp4",
+        "pred": 0.42059959109501305,
+        "label": "2.54"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8129160337.mp4",
+        "pred": 0.38861802670584894,
+        "label": "3.12"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5993312864.mp4",
+        "pred": 0.16026603232776068,
+        "label": "1.72"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10500520233.mp4",
+        "pred": 0.28776781576105304,
+        "label": "2.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10541657773.mp4",
+        "pred": 0.5273165233795671,
+        "label": "3.74"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9434801897.mp4",
+        "pred": 0.32252598306437275,
+        "label": "3.34"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5669052182.mp4",
+        "pred": 0.3960681662740417,
+        "label": "3.879844961"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6981897920.mp4",
+        "pred": 0.47852883753932274,
+        "label": "3.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8336226077.mp4",
+        "pred": 0.38121956625614994,
+        "label": "2.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6137257339.mp4",
+        "pred": 0.6688802603710086,
+        "label": "4.02"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4991520511.mp4",
+        "pred": 0.33982761858536475,
+        "label": "1.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4211514567.mp4",
+        "pred": 0.36658973632215985,
+        "label": "2.74"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9445782126.mp4",
+        "pred": 0.2107663063197709,
+        "label": "1.52"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7136906983.mp4",
+        "pred": 0.41300357025368345,
+        "label": "2.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9060241382.mp4",
+        "pred": 0.2893716974101632,
+        "label": "4.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4206970561.mp4",
+        "pred": 0.09203286011100993,
+        "label": "2.26"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4933934170.mp4",
+        "pred": 0.1907240253120336,
+        "label": "1.96"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6847647728.mp4",
+        "pred": 0.6513548646660542,
+        "label": "3.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5526460224.mp4",
+        "pred": 0.27825679370240214,
+        "label": "3.38"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6157684615.mp4",
+        "pred": 0.184767510648,
+        "label": "3.36"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11913590004.mp4",
+        "pred": 0.12592276483513232,
+        "label": "2.96"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6065207696.mp4",
+        "pred": 0.5350984286266115,
+        "label": "2.88"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4472730048.mp4",
+        "pred": 0.13117322376181564,
+        "label": "1.622406639"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7547764246.mp4",
+        "pred": 0.11201595092000369,
+        "label": "3.28"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5048882871.mp4",
+        "pred": 0.22815650216092534,
+        "label": "1.84"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6680559525.mp4",
+        "pred": 0.16132023775174625,
+        "label": "3.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3878700690.mp4",
+        "pred": 0.23370635691404026,
+        "label": "2.74"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3699089579.mp4",
+        "pred": 0.5544704649604273,
+        "label": "3.38"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6811275923.mp4",
+        "pred": 0.2523840452764101,
+        "label": "3.36"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7005478889.mp4",
+        "pred": 0.4629586132438158,
+        "label": "2.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5516081814.mp4",
+        "pred": 0.49804688493404686,
+        "label": "3.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5633788395.mp4",
+        "pred": 0.4551986043017219,
+        "label": "3.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5739175520.mp4",
+        "pred": 0.46295861324381593,
+        "label": "3.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3469529939.mp4",
+        "pred": 0.14706452045904775,
+        "label": "2.8"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3471567822.mp4",
+        "pred": 0.1225232125181592,
+        "label": "1.52"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6319757818.mp4",
+        "pred": 0.3415824994383169,
+        "label": "3.38"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8476574247.mp4",
+        "pred": 0.40544873575821444,
+        "label": "3.58"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5115335471.mp4",
+        "pred": 0.4263215925474903,
+        "label": "2.16"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6096558457.mp4",
+        "pred": 0.5370413867561842,
+        "label": "2.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6982428911.mp4",
+        "pred": 0.5019531150659532,
+        "label": "2.7"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3516162818.mp4",
+        "pred": 0.5273165233795671,
+        "label": "3.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6096480589.mp4",
+        "pred": 0.08210662704685084,
+        "label": "2.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6333567508.mp4",
+        "pred": 0.5214711624606774,
+        "label": "3.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8152764264.mp4",
+        "pred": 0.11676401359822317,
+        "label": "3.14"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9047671138.mp4",
+        "pred": 0.08449275397500924,
+        "label": "1.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7693986854.mp4",
+        "pred": 0.4186969093556867,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10838934973.mp4",
+        "pred": 0.26133092567451033,
+        "label": "3.34"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6660107279.mp4",
+        "pred": 0.25832598856918726,
+        "label": "3.26"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5107749210.mp4",
+        "pred": 0.14414885303274058,
+        "label": "2.36"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4761429801.mp4",
+        "pred": 0.47463117774496766,
+        "label": "3.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5770178686.mp4",
+        "pred": 0.4610167793123159,
+        "label": "3.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9144368303.mp4",
+        "pred": 0.5,
+        "label": "2.9"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4843048363.mp4",
+        "pred": 0.5964331462646254,
+        "label": "3.2"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7395710342.mp4",
+        "pred": 0.329391720064527,
+        "label": "2.92"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6806699713.mp4",
+        "pred": 0.6388352797656793,
+        "label": "3.76"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4877128768.mp4",
+        "pred": 0.13846179056896435,
+        "label": "3.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9583034514.mp4",
+        "pred": 0.5019531150659532,
+        "label": "3.88"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11907021903.mp4",
+        "pred": 0.09877258875237434,
+        "label": "2.16"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5920289173.mp4",
+        "pred": 0.6808786155678823,
+        "label": "3.44"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8522230898.mp4",
+        "pred": 0.6723316991792859,
+        "label": "3.34"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11944451643.mp4",
+        "pred": 0.17441027833079017,
+        "label": "3.16"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5415012877.mp4",
+        "pred": 0.09807932347046003,
+        "label": "2.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5893880541.mp4",
+        "pred": 0.3040416749665474,
+        "label": "2.7"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3488252741.mp4",
+        "pred": 0.6334102636778401,
+        "label": "3.54"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3179649855.mp4",
+        "pred": 0.32423539898095244,
+        "label": "2.88"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10201521555.mp4",
+        "pred": 0.08151975597471893,
+        "label": "2.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5110540070.mp4",
+        "pred": 0.2893716974101632,
+        "label": "2.64"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10406095776.mp4",
+        "pred": 0.33285232501292616,
+        "label": "2.62"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4959664675.mp4",
+        "pred": 0.07055959618729296,
+        "label": "2.06"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6694553789.mp4",
+        "pred": 0.2689414213699951,
+        "label": "3.62"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9542585542.mp4",
+        "pred": 0.5640984800226174,
+        "label": "3.82"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3710887216.mp4",
+        "pred": 0.2523840452764101,
+        "label": "2.92"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4975471705.mp4",
+        "pred": 0.44360042072113065,
+        "label": "3.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4297792287.mp4",
+        "pred": 0.1688569521416832,
+        "label": "3.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8683385786.mp4",
+        "pred": 0.5350984286266116,
+        "label": "3.66"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9256674744.mp4",
+        "pred": 0.20434189993684584,
+        "label": "2.26"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8921577578.mp4",
+        "pred": 0.3684056955947133,
+        "label": "3.48"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9093682547.mp4",
+        "pred": 0.5039061705290805,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8069880437.mp4",
+        "pred": 0.4244119866699621,
+        "label": "3.64"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4375496636.mp4",
+        "pred": 0.399811640739795,
+        "label": "3.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12274927193.mp4",
+        "pred": 0.49023561657398396,
+        "label": "2.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6760172457.mp4",
+        "pred": 0.30239108267790193,
+        "label": "3.24"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11688667226.mp4",
+        "pred": 0.34158249943831703,
+        "label": "1.94"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6879288904.mp4",
+        "pred": 0.5486734944129985,
+        "label": "2.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12439507093.mp4",
+        "pred": 0.13660839002621936,
+        "label": "2.5"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7012065923.mp4",
+        "pred": 0.31405054499180746,
+        "label": "3.48"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4201416279.mp4",
+        "pred": 0.2958398615564072,
+        "label": "3.72"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8235549337.mp4",
+        "pred": 0.29421497216298875,
+        "label": "2.66"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5003956763.mp4",
+        "pred": 0.5813030906443134,
+        "label": "3.598455598"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9753414792.mp4",
+        "pred": 0.5660185351961013,
+        "label": "3.84"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5026138416.mp4",
+        "pred": 0.1431877021825763,
+        "label": "3.22"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6696625151.mp4",
+        "pred": 0.21337717541660495,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8657921837.mp4",
+        "pred": 0.5583269943353745,
+        "label": "4.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4956521693.mp4",
+        "pred": 0.20689404881588808,
+        "label": "2.8"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5869559051.mp4",
+        "pred": 0.1655931136308237,
+        "label": "2.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7518773518.mp4",
+        "pred": 0.5583269943353745,
+        "label": "4.32"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4299787720.mp4",
+        "pred": 0.22815650216092537,
+        "label": "2.849802372"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7681404078.mp4",
+        "pred": 0.31405054499180746,
+        "label": "2.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9234105504.mp4",
+        "pred": 0.08694165672789168,
+        "label": "2.26"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5250183455.mp4",
+        "pred": 0.2523840452764101,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3431305644.mp4",
+        "pred": 0.4513265055870016,
+        "label": "3.06"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3339387387.mp4",
+        "pred": 0.15507847160659358,
+        "label": "2.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9085955167.mp4",
+        "pred": 0.7041601384435928,
+        "label": "3.2"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5319047612.mp4",
+        "pred": 0.06903792817478999,
+        "label": "1.346863469"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5009379117.mp4",
+        "pred": 0.36658973632215985,
+        "label": "2.299595142"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8097209231.mp4",
+        "pred": 0.4863315313801095,
+        "label": "3.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8909265380.mp4",
+        "pred": 0.5774953651858118,
+        "label": "2.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10053703034.mp4",
+        "pred": 0.3720487831734568,
+        "label": "3.46"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5475555707.mp4",
+        "pred": 0.08945460216888063,
+        "label": "1.74"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8667333526.mp4",
+        "pred": 0.21601153469447487,
+        "label": "2.62"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6528988807.mp4",
+        "pred": 0.38676344637927973,
+        "label": "3.94488189"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7548202460.mp4",
+        "pred": 0.416796643162047,
+        "label": "3.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5995204968.mp4",
+        "pred": 0.40922079513160775,
+        "label": "3.28"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6120978816.mp4",
+        "pred": 0.1968262036430985,
+        "label": "2.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9427595515.mp4",
+        "pred": 0.34687308577969156,
+        "label": "2.06"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3561516939.mp4",
+        "pred": 0.14608724704829568,
+        "label": "2.44"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5694745216.mp4",
+        "pred": 0.20307462818947017,
+        "label": "2.66"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9659398278.mp4",
+        "pred": 0.5039061705290805,
+        "label": "3.3"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12031712185.mp4",
+        "pred": 0.5019531150659532,
+        "label": "2.58"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8717841410.mp4",
+        "pred": 0.24220562872535945,
+        "label": "3.22"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6671136435.mp4",
+        "pred": 0.3007455789412415,
+        "label": "3.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6900620920.mp4",
+        "pred": 0.5,
+        "label": "4.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9766188655.mp4",
+        "pred": 0.39793841107329014,
+        "label": "3.06"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7848940332.mp4",
+        "pred": 0.22678363486528474,
+        "label": "1.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5354932311.mp4",
+        "pred": 0.4397473463667374,
+        "label": "3.480314961"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3863745355.mp4",
+        "pred": 0.6791786991753931,
+        "label": "4.02"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12379836133.mp4",
+        "pred": 0.5717666019337796,
+        "label": "4.24"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8918155991.mp4",
+        "pred": 0.665410558746814,
+        "label": "3.46"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8688311915.mp4",
+        "pred": 0.3629692055196168,
+        "label": "2.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6775766604.mp4",
+        "pred": 0.2538610069692489,
+        "label": "2.96"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11465976586.mp4",
+        "pred": 0.4416730056646256,
+        "label": "3.94"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8738388681.mp4",
+        "pred": 0.38676344637927973,
+        "label": "3.8"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9917916796.mp4",
+        "pred": 0.6477982179521103,
+        "label": "4.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8013211059.mp4",
+        "pred": 0.5253688222550323,
+        "label": "2.48"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5150451769.mp4",
+        "pred": 0.11436852618181248,
+        "label": "1.84"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5893119747.mp4",
+        "pred": 0.45907612781063356,
+        "label": "4.12"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8664958871.mp4",
+        "pred": 0.3793783841197297,
+        "label": "3.52"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6995540661.mp4",
+        "pred": 0.3225259830643727,
+        "label": "3.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5295005655.mp4",
+        "pred": 0.2782567937024021,
+        "label": "2.72"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8717647202.mp4",
+        "pred": 0.35936414516010196,
+        "label": "3.64"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6804829908.mp4",
+        "pred": 0.3793783841197297,
+        "label": "2.96"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7542896986.mp4",
+        "pred": 0.2643583582610753,
+        "label": "3.02"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8331282929.mp4",
+        "pred": 0.6224593312018546,
+        "label": "3.76"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3930579113.mp4",
+        "pred": 0.35756752237044176,
+        "label": "2.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4800261002.mp4",
+        "pred": 0.2877678157610531,
+        "label": "3.98"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4773686738.mp4",
+        "pred": 0.6150878555160665,
+        "label": "2.32"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3546788918.mp4",
+        "pred": 0.3328523250129262,
+        "label": "3.64"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6079875162.mp4",
+        "pred": 0.10521053670308635,
+        "label": "1.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6629527951.mp4",
+        "pred": 0.1135795916911739,
+        "label": "2.25498008"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3588022983.mp4",
+        "pred": 0.34687308577969156,
+        "label": "3.66"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5245445672.mp4",
+        "pred": 0.39047583743349734,
+        "label": "3.38"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4809572333.mp4",
+        "pred": 0.39420095615110434,
+        "label": "3.12"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/13196703974.mp4",
+        "pred": 0.5640984800226174,
+        "label": "3.48"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5858312093.mp4",
+        "pred": 0.07107366938018354,
+        "label": "2.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7236880666.mp4",
+        "pred": 0.37022539259558657,
+        "label": "3.5"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12633847193.mp4",
+        "pred": 0.3363310529262674,
+        "label": "2.92"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5506184490.mp4",
+        "pred": 0.21469141911224196,
+        "label": "2.04"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8215074237.mp4",
+        "pred": 0.12168575463704706,
+        "label": "2.7"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3359662128.mp4",
+        "pred": 0.2200070997458932,
+        "label": "3.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9387089233.mp4",
+        "pred": 0.4359015199773826,
+        "label": "2.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8078127133.mp4",
+        "pred": 0.2735743910248095,
+        "label": "2.618867925"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6275674780.mp4",
+        "pred": 0.06608537866754877,
+        "label": "1.82"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5176278265.mp4",
+        "pred": 0.6095241625665027,
+        "label": "3.12"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5154464760.mp4",
+        "pred": 0.1500288243424251,
+        "label": "3.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6948249567.mp4",
+        "pred": 0.5660185351961015,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5040855662.mp4",
+        "pred": 0.4225046348141882,
+        "label": "3.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5641862023.mp4",
+        "pred": 0.48438008427698437,
+        "label": "3.36"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12899309364.mp4",
+        "pred": 0.1294027315916391,
+        "label": "3.1"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6061346837.mp4",
+        "pred": 0.38491214448393357,
+        "label": "2.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8355599976.mp4",
+        "pred": 0.20946968133032523,
+        "label": "3.62"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5653702857.mp4",
+        "pred": 0.329391720064527,
+        "label": "2.86"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8455309721.mp4",
+        "pred": 0.600188359260205,
+        "label": "3.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4265470174.mp4",
+        "pred": 0.05146276543260743,
+        "label": "1.56"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4945025836.mp4",
+        "pred": 0.16885695214168317,
+        "label": "3.32"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10027007645.mp4",
+        "pred": 0.583203356837953,
+        "label": "3.8"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8937776831.mp4",
+        "pred": 0.6926419831347361,
+        "label": "3.9"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3343535739.mp4",
+        "pred": 0.1347759174229568,
+        "label": "2.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5031142078.mp4",
+        "pred": 0.33111973962899144,
+        "label": "2.2"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4557456762.mp4",
+        "pred": 0.4148988457967688,
+        "label": "3.24"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8254380270.mp4",
+        "pred": 0.43590151997738263,
+        "label": "3.16"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6076608135.mp4",
+        "pred": 0.26894142136999516,
+        "label": "4.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8372557828.mp4",
+        "pred": 0.07751765647688268,
+        "label": "2.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8084631711.mp4",
+        "pred": 0.6566582705381819,
+        "label": "3.48"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12965735905.mp4",
+        "pred": 0.29421497216298875,
+        "label": "3.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6971190423.mp4",
+        "pred": 0.3960681662740416,
+        "label": "3.82"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9726323401.mp4",
+        "pred": 0.31069438321455395,
+        "label": "3.272"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4971091773.mp4",
+        "pred": 0.13386748775351784,
+        "label": "2.9"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6210381577.mp4",
+        "pred": 0.25534365985620666,
+        "label": "3.22"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8483400755.mp4",
+        "pred": 0.06804042027255898,
+        "label": "1.46"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3496871384.mp4",
+        "pred": 0.22135068799782798,
+        "label": "2.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5564209652.mp4",
+        "pred": 0.10521053670308636,
+        "label": "2.46"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8965205906.mp4",
+        "pred": 0.22541661583507672,
+        "label": "3.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3617102785.mp4",
+        "pred": 0.3311197396289914,
+        "label": "3.08"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6724048499.mp4",
+        "pred": 0.2877678157610531,
+        "label": "2.56"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5140332158.mp4",
+        "pred": 0.3611647202343208,
+        "label": "3.58"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3861648412.mp4",
+        "pred": 0.13117322376181562,
+        "label": "2.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8124951690.mp4",
+        "pred": 0.4980468849340468,
+        "label": "3.06"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6210062524.mp4",
+        "pred": 0.22678363486528472,
+        "label": "2.78"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5621374631.mp4",
+        "pred": 0.5058591067938315,
+        "label": "2.52"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/6894958520.mp4",
+        "pred": 0.33982761858536475,
+        "label": "3.24"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3664548641.mp4",
+        "pred": 0.30404167496654744,
+        "label": "3.121568627"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5440091902.mp4",
+        "pred": 0.7981867777396212,
+        "label": "3.0"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7175971942.mp4",
+        "pred": 0.45907612781063356,
+        "label": "2.32"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12623549414.mp4",
+        "pred": 0.5506073655352405,
+        "label": "3.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4642629203.mp4",
+        "pred": 0.588889130767832,
+        "label": "3.52"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/12893008605.mp4",
+        "pred": 0.5832033568379531,
+        "label": "3.55465587"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5504464599.mp4",
+        "pred": 0.07531230632362355,
+        "label": "1.94"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8729280042.mp4",
+        "pred": 0.14903529447863062,
+        "label": "2.26"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5357123491.mp4",
+        "pred": 0.6113819732941511,
+        "label": "3.44"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5805360253.mp4",
+        "pred": 0.30735801686526387,
+        "label": "2.58"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8331470149.mp4",
+        "pred": 0.5717666019337796,
+        "label": "3.02"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11435365925.mp4",
+        "pred": 0.18713268216242657,
+        "label": "2.6"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/11920895013.mp4",
+        "pred": 0.31742626558767584,
+        "label": "3.42"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8467238180.mp4",
+        "pred": 0.16451646289656313,
+        "label": "3.18"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/3781419322.mp4",
+        "pred": 0.06954174450582809,
+        "label": "2.89787234"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/5845660280.mp4",
+        "pred": 0.5679366107876933,
+        "label": "3.5"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8380926104.mp4",
+        "pred": 0.4921881357207956,
+        "label": "3.4"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4283455837.mp4",
+        "pred": 0.23934934732271168,
+        "label": "3.68"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/8147563408.mp4",
+        "pred": 0.3830641686805551,
+        "label": "3.58"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7197025396.mp4",
+        "pred": 0.4863315313801095,
+        "label": "3.92"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/10672253555.mp4",
+        "pred": 0.057071397225397696,
+        "label": "1.614785992"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/9802042845.mp4",
+        "pred": 0.6601723814146353,
+        "label": "3.66"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/7123482247.mp4",
+        "pred": 0.3433417294618181,
+        "label": "3.258064516"
+    },
+    {
+        "file": "/data/ethan/KoNViD/KoNViD_1k_videos/4775312025.mp4",
+        "pred": 0.11357959169117389,
+        "label": "2.08"
+    }
+]

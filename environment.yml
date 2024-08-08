@@ -1,0 +1,28 @@
+name: myvqa
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.9
+  - pytorch=2.3.1 
+  - torchvision=0.18.1
+  - torchaudio=2.3.1
+  - pytorch-cuda=12.1
+  - packaging=24.1
+  - pip:
+      - transformers==4.41.2
+      - accelerate==0.31.0
+      - bitsandbytes==0.43.1
+      - charset-normalizer==3.3.2
+      - flash-attn==2.5.9.post1
+      - requests==2.32.3
+      - numpy==1.26.4
+      - pillow==10.3.0
+      - pandas==2.0.1
+      - timm==0.6.13
+      - tqdm
+      - datasets==2.20.0
+      - decord
+      - opencv-python
+      - clip
